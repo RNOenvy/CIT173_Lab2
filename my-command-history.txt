@@ -1,0 +1,41 @@
+    1  print
+    2  restart
+    3  rstart
+    4  restartd
+    5  print
+    6  sudo parted /dev/sdb
+    7  c ~
+    8  C ~
+    9  cd ~
+   10  pwd
+   11  sudo parted /dev/sbd
+   12  shutdown
+   13  quit
+   14  #cal
+   15  mkdir CIT173_Lab2
+   16  SHELL
+   17  print SHELL
+   18  type
+   19  type SHELL
+   20  type $SHELL
+   21  cd ~/
+   22  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.git
+   23  cat CIT173_Lab2_files/phonebook1.txt CIT173_Lab2_Files/phonebook2.txt >> CIT173_Lab2/my-phonebook.txt
+   24  CIT173_Lab2_Files/phonebook1.txt CIT173_Lab2_Files/phonebook2.txt >> CIT173_Lab2/my-phonebook.txt
+   25  cat CIT173_Lab2_Files/phonebook1.txt CIT173_Lab2_Files/phonebook2.txt >> CIT173_Lab2_Files/my-phonebook,txt
+   26  wc CIT173_Lab2/my-phonebook.txt
+   27  cat CIT173_Lab2/my-phonebook.txt | <
+   28  cat CIT173_Lab2/my-phonebook.txt | >
+   29  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.gitQ
+   30  cat CIT173_Lab2_Files/phonelisting1.txt CIT173_Lab2_Files/phonelisting2.txt >> CIT173_Lab2/my-phonelisting.txt
+   31  tac CIT173_Lab2/my-phonebook.txt >> CIT173_Lab2/my-phonebook-reverse.txt
+   32  join CIT173_Lab2/myphonebook.txt CIT173_Lab/my-phonelisting.txt >> CIT173_Lab2.my-joined-phonebook.txt
+   33  join CIT173_Lab2/my-phonebook.txt CIT173_Lab2/my-phonelisting.txt >> CIT173_Lab2/my-joined-phonebook.txt
+   34  unexpand CIT173_Lab2/my-phonebook.txt >> CIT173_Lab2/my-tabbed-phonebook.txt
+   35  sort CIT173_Lab/my-phonebook.txt >> CIT173_Lab2/my-sorted-phonebook.txt
+   36  sort CIT173_Lab2/my-phonebook.txt >> CIT173_Lab2/my-sorted-phonebook.txt
+   37  n1 CIT173_Lab2/my-phonebook.txt >> CIT173_Lab2/my-numbered-phonebook.txt
+   38  nl CIT173_Lab2/my-phonebook.txt >> CIT173_Lab2/my-numbered-phonebook.txt
+   39  head CIT173_Lab2/my-phonebook.txt >> CIT173_Lab2/my-numbered-phonebook.txt
+   40  tail CIT173_Lab2/my-phonebook.txt >> CIT173_Lab2/my-tail-phonebook.txt
+   41  history > CIT173_Lab2/my-command-history.txt
